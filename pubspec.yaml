@@ -4,7 +4,7 @@ version: 0.0.4
 homepage: https://github.com/antwanhelou/currency_code_to_currency_symbol.git
 
 environment:
-  sdk: '>=3.2.3 <4.0.0'
+  sdk: '>=3.0.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
