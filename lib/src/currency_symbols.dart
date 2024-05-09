@@ -164,5 +164,5 @@
       'ZMW': 'ZK',
       'ZWD': 'Z\$'
     };
-    return currencySymbols[upperCaseCurrencyCode] ?? '';
+    return currencySymbols[upperCaseCurrencyCode] ?? currencyCode;
   }
